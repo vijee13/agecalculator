@@ -1,0 +1,40 @@
+body {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: blue;
+
+}
+
+.name {
+    font-weight: bold;
+}
+
+.input {
+    padding: 20px;
+    
+}
+
+input[type="date"] {
+    width: 400px;
+    height: 30px;
+    font-size: 16px;
+    padding: 5px;
+}
+
+#btn{
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    width: 150px;
+    cursor: pointer;
+}
+.result {
+    padding: 20px;
+    font-weight: bolder;
+    font-size: 30px;
+}
